@@ -51,7 +51,7 @@ El texto de la página web está escrito en español, al igual que las clases y 
 ## Proyecto en vivo
 
 Puedes acceder al proyecto en vivo en: 
-https://aubar48.github.io/miPortafolioNahuel/
+https://aubar48.github.io/miPortafolioNahuel/ <br>
 https://effulgent-elf-9eb719.netlify.app/
 
 
