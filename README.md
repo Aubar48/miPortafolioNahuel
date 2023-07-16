@@ -10,23 +10,28 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/readme/screenshot1.png)
+![Primera parte de la página web](imagenes/readme/screenshot1A.png)
+
+Sobre mi:
+
+![Experiencia](imagenes/readme/screenshot2A.png)
 
 Experiencia:
 
-![Experiencia](imagenes/readme/screenshot2.png)
+![Experiencia](imagenes/readme/screenshot3A.png)
 
 Proyectos:
 
-![Proyectos](imagenes/readme/screenshot3.png)
+![Proyectos](imagenes/readme/screenshot4A.png)
 
-Testimonios:
+Videos Editados:
 
-![Testimonios](imagenes/readme/screenshot4.png)
+![Contacto](imagenes/readme/screenshot5A.png)
+
 
 Contacto:
 
-![Contacto](imagenes/readme/screenshot5.png)
+![Contacto](imagenes/readme/screenshot6A.png)
 
 ## Tecnologías
 
@@ -51,3 +56,6 @@ Puedes acceder al proyecto en vivo en: https://estefaniacn.github.io/portafolio-
 ## Curso en YouTube
 
 Para crear este proyecto paso a paso te invito a tomar el curso de forma gratuita en el canal de YouTube de [freeCodeCamp en Español](https://www.youtube.com/freecodecampespanol).
+
+
+## Muchas gracias freeCodeCamp en Español && Estefania Cassingena Navone
